@@ -21,14 +21,24 @@ Concept, UI/UX, render architecture, atlas packer & offset studio by **Fann Isnn
 
 
 ## Sign in — free account
-```csv
-field,value
-Tab,Account
-Username,KAGEfree
-Password,kage123
+
+
+Username:
+``` KAGEfree ```
+Password:
+``` kage123 ```
+
 First sign-in,Internet connection required
 Afterwards,Works offline during the grace period
-```
+
+Donation for Dev
+Dana:  ``` 085960290154 ```
+Ovo:   ``` 085960290154 ```
+
+Contact Whatsapp:   ``` 085960290154 ```
+Contact email:      ``` Faniisnanda@gmail.com ```
+
+Official Youtube Channel Developer: https://www.youtube.com/@fani_isnanda
 
 # KAGE
 
@@ -136,6 +146,8 @@ An internet connection is required on first sign-in; afterwards the app works of
 | Graphics | OpenGL 3.3 capable | Optional — the CPU renderer is used automatically otherwise |
 | Storage | ~200 MB | Plus pack cache, trimmed automatically at 3 GB |
 | Network | First activation only | Offline afterwards |
+| For Android | Android 9.0 or above | 4GB RAM |
+
 
 ---
 
