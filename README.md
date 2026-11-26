@@ -12,7 +12,7 @@ Atlas packer · Offset studio · Animation preview · Multi-engine exporter · S
 ![theme](https://img.shields.io/badge/theme-crimson-9E1244?style=for-the-badge&labelColor=0B0D12)
 ![lang](https://img.shields.io/badge/UI-ID%20%7C%20EN%20%7C%20%E4%B8%AD%E6%96%87-FBBF24?style=for-the-badge&labelColor=0B0D12)
 
-Concept, UI/UX, render architecture, atlas packer & offset studio by **Fann Isnnd**
+Concept, UI/UX, render architecture, atlas packer & offset studio
 
 </div>
 
@@ -172,7 +172,7 @@ Unduh di halaman [Releases](../../releases). Koneksi internet hanya diperlukan s
 Repository files are released under the terms in [LICENSE](LICENSE).
 
 **KAGE — Keyframe Atlas & Grid Engine**  
-Concept, UI/UX design, render architecture, atlas packer, and offset studio by **Fann Isnnd**.
+Concept, UI/UX design, render architecture, atlas packer, and offset studio by **Fann Isnnd(Nand481)**.
 
 Built with Python, PySide6, rectpack, Pillow, and Flet.
 
